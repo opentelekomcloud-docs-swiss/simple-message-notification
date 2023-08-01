@@ -1,3 +1,8 @@
-===========================================================
-Welcome to the documentation of simple-message-notification
-===========================================================
+Simple Message Notification
+===========================
+
+.. directive_wrapper::
+   :class: container-sbv
+
+   .. service_card::
+      :service_type: smn
